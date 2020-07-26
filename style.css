@@ -1,0 +1,164 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background: #E5E5E5;
+}
+#top_header{
+    height: 576px;
+    background-color: #F0FFF0;
+}
+.navbar-light .navbar-brand {
+    color: rgba(0,0,0,.9);
+    width: 650px;
+}
+.navbar-brand img{
+    width:25%;
+}
+.nav-item{
+    margin-right: 20px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+}
+.nav-link:hover{
+    color:#56548C ;
+}
+.btn_sign_in{
+    width: 104px;
+    height: 43px;
+    border: none;
+    border-radius: 33px;
+    background-color:#21B573 ;
+    color: #fff;
+}
+button{
+    transition: 0.8s;
+}
+button:hover{
+    background-color:#fff ;
+    color: #21B573 ;
+}
+.header_body{
+   margin-top: 100px;
+}
+.header_body img{
+    width: 100%;
+}
+.header_body_text{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.header_body_text h1{
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.btn_started{
+    width: 153px;
+    height: 43px;
+    background-color: #21B573;
+    color: #fff;
+    border-radius: 33px;
+    border:none;
+    margin-top: 20px;
+}
+#book_section{
+    margin-top: 100px;
+}
+.book_box{
+    border: 10px solid #E5E5E5;
+    background: #b9f7d4;
+    border-radius: 10px;
+    padding-top: 35px;
+    transition: 0.8s;
+}
+.book_box:hover{
+    background: #F8FFFB;
+    transform: scale(1.02);
+}
+.book_box img{
+    width:30%;
+}
+.book_box h4{
+    font-size:20px;
+    margin-top: 15px;
+    color: #413960;
+    font-weight: bold;
+}
+.book_box p{
+    font-size:16px;
+    color: #585859;
+}
+#course_section{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.course_section_heading{
+    color: #413960;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+.card-deck .card {
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 20px gray;
+}
+.card_footer_item img{
+    width:15%;
+    margin-right:55px;
+}
+.card-title {
+    font-weight: bold;
+}
+.card_footer_item p{
+    font-size: 12px;
+    position: absolute;
+    margin-left: 25px;
+}
+.card-footer {
+    background-color:#fff;
+    border-top:none;
+}
+#testimonial_section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.section_title{
+    font-size: 36px;
+    color:#000 ;
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+.testimonial_box{
+    max-width: 600px;
+    text-align: justify;
+    margin: auto;
+}
+.testimonial_box img{
+    width:50%;
+}
+.testimonial_box p{
+    margin-left: 20px;
+    font-size: 16px;
+    color: #413960;
+}
+#bottom_section{
+    background: #282531;
+    height: 370px;
+    padding-top:70px;
+    color: #fff;
+    line-height: 30px;
+}
+.bottom_list h5{
+    margin-left: 40px;
+    font-weight: bold;
+  }
+.bottom_list ul{
+  list-style: none;
+}
+.copy_right{
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 70px;
+}
